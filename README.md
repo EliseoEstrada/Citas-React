@@ -10,3 +10,6 @@ Aplicacion web desarrollada en React donde se administra citas de pacientes de u
 - Git
 - GitHub
 - React
+
+### Visual de la pagina
+![](https://github.com/EliseoEstrada/Citas-React/blob/master/public/citas-react01.png)
